@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		new TrigramOperator().getTrigramLists();
+//		new TrigramOperator().getTrigramLists();
 
 		Utils utils = new Utils();
 		// experiments 3-Gram method with evaluation dataset for German
